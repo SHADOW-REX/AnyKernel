@@ -4,14 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Nova Kernel by Abdul7852
+kernel.string=Nova Kernel by SHADOW
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=begonia
-device.name2=begoniain
+device.name1=miatoll
+device.name2=curtana
+device.name3=excalibur
+device.name4=gram
+device.name5=joyeuse
 supported.versions=
 supported.patchlevels=
 '; } # end properties
